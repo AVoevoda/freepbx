@@ -23,5 +23,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 # 3. run docker freepbx 
 docker-compuse up -d 
 
-
+# 4. Download linphone
+ - https://www.linphone.org/
 
