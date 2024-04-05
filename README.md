@@ -1,9 +1,6 @@
 # download vscode
 https://code.visualstudio.com/docs/?dv=linux64_deb
 
-# Name
-install docker
-https://docs.docker.com/engine/install/ubuntu/
 
 # Add Docker's official GPG key:
 sudo apt-get update
@@ -24,8 +21,11 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 
 # 3. run docker freepbx 
-docker-compuse up -d 
+docker-compose up -d 
 
 # 4. Download linphone
  - https://www.linphone.org/
 
+
+# Name
+https://docs.docker.com/engine/install/ubuntu/
