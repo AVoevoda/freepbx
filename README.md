@@ -1,3 +1,6 @@
+# download vscode
+https://code.visualstudio.com/docs/?dv=linux64_deb
+
 # Name
 install docker
 https://docs.docker.com/engine/install/ubuntu/
